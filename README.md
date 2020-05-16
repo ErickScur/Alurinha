@@ -1,2 +1,2 @@
 # Alurinha
-Curso Flexbox Alura
+Curso sobre Flexbox e posicionamento do Alura
